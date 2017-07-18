@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AngularTourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.2.
@@ -26,3 +27,7 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# angular-tour-of-heroes
+Test Project to Learn Angular 2
+>>>>>>> c3a095c3c9b9b86a267be78f26b10b11aea52cec
